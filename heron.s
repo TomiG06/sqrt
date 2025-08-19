@@ -2,7 +2,6 @@
 
 .section .data
 half: .float 0.5
-abs_mask: .long 0x7FFFFFFF
 
 .section .text
 .global heron

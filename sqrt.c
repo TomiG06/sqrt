@@ -9,7 +9,7 @@
 #define BENCHITER (int)1e7
 
 
-// basically the same as stdc
+// like stdc but no edge case checking
 extern float hwsqrt(float n);
 extern float heron(float n);
 
